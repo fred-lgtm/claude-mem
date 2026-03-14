@@ -1,11 +1,11 @@
 {
-  "name": "thedotmack",
+  "name": "brickface",
   "owner": {
-    "name": "Alex Newman"
+    "name": "Brickface Enterprise"
   },
   "metadata": {
-    "description": "Plugins by Alex Newman (thedotmack)",
-    "homepage": "https://github.com/thedotmack/claude-mem"
+    "description": "Brickface Enterprise Claude Plugins",
+    "homepage": "https://github.com/fred-lgtm/claude-mem"
   },
   "plugins": [
     {
